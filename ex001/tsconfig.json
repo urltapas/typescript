@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "target": "ESNext", /* compica com de acordo com o ecma script mais recente */
+    "strict": true, /* forca a tipagem e da erro caso não tipe */
+  }
+}
